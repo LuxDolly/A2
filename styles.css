@@ -1,0 +1,26 @@
+body {
+    background-color: #AEC6CF; /* Pastel Blue */
+    color: #F49AC2; /* Pastel Pink */
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #F49AC2; /* Pastel Pink */
+}
+
+a {
+    color: #F49AC2; /* Pastel Pink */
+}
+
+button {
+    background-color: #F49AC2; /* Pastel Pink */
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #AEC6CF; /* Pastel Blue */
+    color: #FFFFFF;
+}
